@@ -1,0 +1,9 @@
+Shiny Tutorial 2.5 hr http://shiny.rstudio.com/tutorial/
+
+Shiny Gallery http://shiny.rstudio.com/gallery/
+
+Shiny Articles http://shiny.rstudio.com/articles/
+
+Shiny Reference http://shiny.rstudio.com/reference/shiny/1.3.2/
+
+Shiny Cheatsheet http://shiny.rstudio.com/articles/cheatsheet.html
